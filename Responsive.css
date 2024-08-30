@@ -1,0 +1,476 @@
+@media only screen and (max-width:1919px) {
+  .center-wr {
+    max-width: 74%;
+  }
+  .provider-portal-sidebar-btn-wr{
+    width: 17% !important;
+  }
+}
+
+/*1749*/
+@media only screen and (max-width:1750px) {
+  .provider-portal-sidebar-btn-wr{
+    width: 19% !important;
+  }
+}
+
+/*1679*/
+@media only screen and (max-width:1679px) {
+  .provider-portal-sidebar-btn-wr{
+    width: 20% !important;
+  }
+}
+
+/*1500*/
+@media only screen and (max-width:1500px) {
+  .provider-portal-sidebar-btn-wr{
+    width: 26% !important;
+  }
+}
+
+/*1440*/
+@media only screen and (max-width:1439px) {
+  .provider-portal-sidebar-btn-wr{
+    width: 24% !important;
+  }
+}
+
+/*1368*/
+@media only screen and (max-width:1367px) {
+  .center-wr {
+    max-width: 84%;
+  }
+  .provider-portal-sidebar-btn-wr{
+    width: 25% !important;
+  }
+ 
+}
+
+/*1200*/
+@media only screen and (max-width:1199px) {
+  
+  .not-eligible-page div.w-\[75\%\]>p:nth-child(3) {
+    margin-top: 50px !important;
+  }
+
+  .not-eligible-page div.w-\[75\%\] {
+    width: 81% !important;
+  }
+
+  .not-eligible-page {
+    padding-top: 75px !important;
+    padding-bottom: 75px !important;
+  }
+  .provider-portal-sidebar-btn-wr {
+    width: 35% !important;
+}
+}
+
+/*1024*/
+@media only screen and (max-width:1023px) {
+  .center-wr {
+    max-width: 94%;
+  }
+  h1 {
+    font-size: 38px !important;
+  }
+
+  h3 {
+    font-size: 31px !important;
+  }
+
+  h4 {
+    font-size: 30px !important;
+  }
+
+  p {
+    font-size: 16px !important;
+  }
+
+  .colo-health-logo-wr {
+    width: 31%;
+  }
+
+  ul.responsives-nav-menu {
+    display: none;
+  }
+
+  div.responsives-nav-menu {
+    display: block;
+  }
+
+  .steps-num-circle {
+    width: 0 !important;
+    height: 0 !important;
+    padding: 40px 40px;
+    font-size: 30px !important;
+
+  }
+
+  .steps-num-circle-inner-container {
+    max-width: 80% !important;
+  }
+
+  .steps-num-circle-container {
+    flex-direction: column;
+    gap: 30px;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+
+  .home-banner-wr {
+    padding-top: 100px !important;
+    padding-bottom: 65px !important;
+  }
+
+  .pre-registeration-que-wr {
+    padding-top: 70px !important;
+    padding-bottom: 70px !important;
+    min-height: 0 !important;
+  }
+
+  .pre-registeration-que-wr button {
+    font-size: 17px;
+    padding: 7px 30px;
+  }
+
+  .pick-date-time-wr {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .pick-date-time-wr>div {
+    width: 100%;
+  }
+
+  .pick-date-time-outer-wr {
+    width: 95% !important;
+  }
+
+  .pick-date-time-parent-wr,
+  .pay-for-your-test-parent-wr {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+  }
+
+  .pay-for-your-test-wr {
+    width: 89% !important;
+  }
+
+  footer h4 {
+    font-size: inherit !important;
+  }
+
+  .footer-inner-child-container>div {
+    width: 100%;
+  }
+
+  .footer-inner-child-container {
+    flex-direction: column;
+  }
+
+  .footer-inner-container .footer-inner-child-container:nth-child(2) {
+    align-items: center;
+  }
+
+  .footer-inner-child-container>div:nth-child(2) img {
+    margin-top: -20px !important;
+    margin-left: 22%;
+  }
+
+  h4.for-footer-res {
+    width: 100%;
+    text-align: left !important;
+  }
+
+  .for-footer-res-two {
+    width: 100%;
+    text-align: left !important;
+  }
+  .provider-portal-content-wr{
+    flex-direction: column-reverse;
+  }
+
+  .provider-portal-sidebar-btn-wr{
+    width: 100% !important;
+    flex-direction: row !important;
+    align-items: flex-start !important;
+    gap: 15px;
+    justify-content: center !important;
+    border: 0 !important;
+  }
+  .provider-portal-sidebar-btn-wr button{
+    font-size: 14px;
+    margin: 0 ;
+  }
+  .provider-portal-content-wr > div:nth-child(1){
+    width: 100% !important;
+  }
+
+  .new-order-form-wr{
+    width: 100% !important;
+  }
+
+
+}
+
+/*980*/
+@media only screen and (max-width:979px) {
+  .not-eligible-page h1 {
+    font-size: 34px !important;
+  }
+
+  .not-eligible-page div.w-\[75\%\] {
+    width: 95% !important;
+  }
+  .provider-login-form-wr{
+    width: 60% !important;
+    margin:  0 auto;
+  }
+  .login-pg-logo-wr{
+    flex-direction: column;
+    width: 100%;
+  }
+  .provider-portal-sidebar-btn-wr button{
+    width: 45%;
+  }
+  .provider-portal-sidebar-btn-wr{
+    justify-content: space-between;
+    padding: 25px 0 !important;
+    flex-wrap: wrap;
+  }  .search-bar-wr{
+    width: 100% !important;
+  }
+
+  .search-bar-wr-container{
+    width: 100% !important;
+    flex-wrap: wrap;
+  }
+
+  .for-res-in-login{
+    position: relative !important;
+    margin-top: 20%;
+    width: 100% !important;
+  }
+}
+
+/*768*/
+@media only screen and (max-width:767px) {
+  .patient-orders-table table{
+    width: 560px;
+  }
+  .patient-orders-table{
+    overflow-x: scroll;
+  }
+  .knoxville-logo-wr img {
+    width: 70%;
+  }
+
+  .footer-other-logo-container figure:nth-child(1) img {
+    width: 55%;
+    margin-left: 21%;
+  }
+
+  .footer-other-logo-container figure:nth-child(2) img {
+    width: 65%;
+    margin-left: 12%;
+  }
+
+}
+
+/*650*/
+@media only screen and (max-width:649px) {
+  h3 {
+    font-size: 25px !important;
+  }
+  .login-pg-logo-wr  h3 {
+    font-size: 25px !important;
+  }
+
+  .pre-registeration-que-wr {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+
+  .ant-picker-calendar-container .ant-picker-calendar {
+    width: 68% !important;
+  }
+  .provider-login-form-wr {
+    width: 80% !important;
+}
+
+.search-bar-wr-container button{
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  width: 25% !important;
+}
+
+}
+
+/*568*/
+@media only screen and (max-width:567px) {
+  .colo-health-logo-wr {
+    width: 44%;
+  }
+
+  h1 {
+    font-size: 31px !important;
+  }
+
+  h3 {
+    font-size: 22px !important;
+  }
+
+  h4 {
+    font-size: 21px !important;
+  }
+  .login-pg-logo-wr  h3 {
+    font-size: 25px !important;
+  }
+
+  .steps-num-circle {
+    padding: 35px 35px;
+    font-size: 27px !important;
+  }
+
+  .home-banner-wr {
+    padding-top: 80px !important;
+    padding-bottom: 45px !important;
+  }
+
+  .footer-inner-child-container {
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .footer-inner-container {
+    flex-direction: column;
+    gap: 35px;
+  }
+
+  .footer-other-logo-container figure:nth-child(2) img {
+    width: 76%;
+    margin-left: -8%;
+  }
+
+  .footer-other-logo-container figure:nth-child(1) img {
+    width: 66%;
+    margin-left: 0%;
+  }
+
+  .footer-inner-container .footer-inner-child-container:nth-child(2) {
+    align-items: flex-start;
+  }
+
+  .footer-inner-child-container>div:nth-child(2) img {
+    margin-top: 0 !important;
+    margin-left: -6%;
+    width: 84%;
+  }
+
+  .footer-inner-container {
+    padding-bottom: 20px !important;
+  }
+  .provider-login-form-wr {
+    width: 89% !important;
+  }
+.for-res-in-login  {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0 !important;
+    padding-right:  0 !important;
+  }
+  #login-bg{
+    padding: 15px !important;
+  }
+}
+
+/*480*/
+
+@media only screen and (max-width:479px) {
+  .search-bar-wr-container button{
+    width: 40% !important;
+    font-size: 15px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  
+  h3 {
+    font-size: 19px !important;
+  }
+
+  .steps-num-circle-second-wr {
+    gap: 20px !important;
+  }
+  .login-pg-logo-wr  h3 {
+    font-size: 25px !important;
+  }
+
+  .ant-picker-calendar-container>div:nth-child(2) button {
+    min-width: 60%;
+    display: block;
+  }
+
+  .pick-date-time-wr>div {
+    padding: 10px 20px;
+  }
+
+  .ant-picker-calendar-container {
+    flex-direction: column;
+  }
+
+  .ant-picker-calendar-container .ant-picker-calendar {
+    width: 100% !important;
+  }
+
+  .ant-picker-calendar-container>div:nth-child(2) {
+    width: 100%;
+    flex-direction: row;
+    overflow-x: scroll;
+    height: auto !important;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000, inset -10px 0px 6px rgba(0, 0, 0, 0.1) !important;
+  }
+  .provider-portal-sidebar-btn-wr button {
+    width: 100%;
+}
+.provider-portal-content-wr > div:nth-child(1) {
+    width: 100% !important;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+ .provider-portal-content-wr form >div{
+  padding-left: 18px !important;
+  padding-right:20px !important;
+ }
+
+}
+
+/*415*/
+
+@media only screen and (max-width:414px) {
+
+  .login-pg-logo-wr  h3 {
+    font-size: 25px !important;
+  }
+  .footer-inner-container .footer-inner-child-container:nth-child(1),
+  .ant-picker-calendar-container {
+    flex-direction: column;
+  }
+
+  .pay-for-your-test-wr form>div {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+
+
+}
+
+/*375*/
+
+@media only screen and (max-width:374px) {
+  .login-pg-logo-wr  h3 {
+    font-size: 25px !important;
+  }
+}
+
+/*320*/
